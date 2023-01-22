@@ -14,7 +14,7 @@ const AddContactModal = (props) => {
   return (
     <Modal show={addContact} onHide={handleClose}>
       <Modal.Header closeButton>
-        <Modal.Title>Edit Contact List</Modal.Title>
+        <Modal.Title>Add Contact List</Modal.Title>
       </Modal.Header>
       <Modal.Body>
         <div>
